@@ -1,0 +1,46 @@
+.heading {
+  font-family: 'Times New Roman', Times, serif;
+  color: antiquewhite;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
+  text-decoration: underline;
+}
+.heading2 {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(172, 186, 186);
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.shade {
+  height: auto;
+  width: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-left: -5px;
+  margin-right: -5px;
+  margin-top: -5px;
+  margin-bottom: -5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  color: burlywood;
+}
+body {
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+  font-family: Arial;
+}
+.code {
+  color: rgb(120, 187, 122);
+  font-size: 15px;
+}
